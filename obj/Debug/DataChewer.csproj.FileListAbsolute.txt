@@ -1,0 +1,10 @@
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\bin\Debug\DataChewer.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\bin\Debug\DataChewer.exe
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\bin\Debug\DataChewer.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\bin\Debug\MetroFramework.dll
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.exe
+c:\users\kevin\documents\visual studio 2015\Projects\DataChewer\DataChewer\obj\Debug\DataChewer.pdb
